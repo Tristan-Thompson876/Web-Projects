@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<!-------------------------------- HEADER SECTION-------------------------------->
+<div id="wrapper">
+  <header>
+    <center><img src="Untitled design.png" width="8%" height="10%"></center>
+    <center>
+      <h2>University of the West Indies Mona</h2>
+    </center>
+<style>
+  body {
+  background-color: #d1f4ff;
+}
+  
+  p {
+  max-width: 1200px;
+  min-width: 100px;
+  }
+</style>
+  <header>
+
+      <head>
+
+        <title> Environment & Computing</title>
+        <div class="wrap">
+          <nav>
+            <div class="logo"> Environment & Computing</div>
+            <div id="navbar">
+              <ul>
+                <li><a style="border-right: solid;" class+"active" href="index.html"> Home</a>
+                <li>
+                <li><a style="border-right: solid;" class+"active" href="topic.html"> Topic</a>
+                </li>
+                <li><a style="border-right: solid;" class+"active" href="#"> Devices</a>
+                  <ul>
+                    <li><a href="phones.html"> Phones</a></li>
+                    <li><a href="laptops.html"> Laptops</a></li>
+                    <li><a href="desktops.html">Desktops</a></li>
+                    <li><a href="tv.html"> Televisions</a></li>
+                  </ul>
+                </li>
+                <li><a style="border-right: solid;" class+"active" href="about us.html"> About us</a></li>
+              </ul>
+          </nav>
+          <section></section>
+        </div>
+      </head>
+
+
+<head>
+  <title>
+    <h1>
+      <titlealign="center" DESKTOPS>
+    </h1>
+  </title>
+</head>
+<br>
+<br>
+<br>
+<br>
+
+<style>
+  body {
+  background-color: #d1f4ff;
+}
+   body h4{
+    text-transform: sentencecase;
+    text-align: left;
+    color:#138D75;
+    line-height: 50px;
+</style>   
+
+
+     <head>
+  <title>
+    <h1>
+      <titlealign="center" DESKTOPS>
+    </h1>
+  </title>
+</head>
+<br>
+<br>
+
+<style>
+  body {
+  background-color: #d1f4ff;
+}
+   body h4{
+    text-transform: sentencecase;
+    text-align: left;
+    color:#138D75;
+    line-height: 50px;
+</style>    
+    
+<body>
+  <ul>
+    <h1><center>DESKTOPS🖥</center></h1>
+    <br>
+    <hr width="100%" align-"left">
+    <br>
+    <p><h4><strong>💡FUN FACT :</strong></h4><h5><em>Only an estimated 15% of global e-waste is fully recycled (Heacock et al, 2016).
+</em></h5></p>
+    <br>
+    <hr width="100%" align-"left">
+    <br>
+    <h2><i> What is a Desktop Computer?</i></h2>
+    <p>
+      Desktop computers, as the name sugget, are computers that are fitted on top of a typical office desk. Some peripheral devices typically associated with desktop computers iclyde the mouse, keyboard, monitor and power cord which together to enable the user to traverse through the computer. For example, the mouse and keyboard helps users to select and traverse through files present on the computer and the monitor displays the content of these file. Unlike laptops which are portable, desktop computers are built to be stationary. 
+    </p>
+    <br>
+    <h2><i>Brief History of Desktop Computers</i></h2>
+    <p>
+      Developed and first unveiled at a public New York World's Fair in the 1960s by inventor Pier Giorgio Pertto, the Olivetti Programma 101 was the first desktop computer of its time. The Programma 101 was able to preform simple arithemtic operations such as addition, subtraction, multiplication, and division. 
+      <br>
+      Although the Programma 101 is considered the first ever desktop computer, the first desktop computer mass-marketed was the HP 9001A, developed by Hewlett Packard in 1968. Throughout the years that followed, the desktop computer underwent significant and numerous modification in both hardware and software t produce the desktop computers we have today.    
+  </p>    
+  <br>
+  <br>
+  <h1>IMPACTS OF DESKTOPS ON THE ENVIRONMENT</h1>
+  <p>
+    <br>
+      Electronic waste or E-waste, as is referred to by many, are electronic products or products containing electronic components which have reached the end of the life span. Numerous minerals, went into developing the electronic devices we have today, most of which are toxic to human health. Minerals such as:
+      <li>Lead</li>
+      <li>Mercury</li>
+      <li>Barium </li>
+      <li>Copper </li>
+      <li>Cobalt</li>
+    
+    <br>
+     <p><ul><li>These minerals spew from e-waste as a result of the  improper disposal of electronic waste (e-waste) in landfill or other places. These minerals seeps into the soil, affecting the growth of nearby crops while simultaneously changing the pH value of the soil. Additionally, crops affected by these toxins are susceptible to illness thereby reducing the productivity levels of farmlands.</li></ul></p>
+      <br>
+       <p><ul><li>Futhermore, these toxins which seeps into the soil then leaks into underlying water bodies which eventually run into ponds, lake and rivers, adversely affecting the aqautic ecosystem. Aquatic organisms living within these affected ecosystems or organisms which drinks from these affected water bodies inadvertently develop ailments from which the eventually die.</li></ul></p>
+      <br>
+       <p><ul><li>However, some organisms may show little to no signs of illness. These organisms are then caught by local fishermen, sold in markets and bought by local consumers. These toxins then enter the human body after consumption of affected organisms, causing ailments such as liver, kidney and brain damages and in worse cases death.</li</ul>></p>
+    <br>
+     <p><ul><li>The burning of e-waste releases toxic particles such as dioxins and carbon dioxide, one of the many green house gases. The release of dioxins into the atmosphere causes reproductive and developmental issues in women and children. The release of carbon dioxide contribute to global warming by trapping excess heat within the earth's atmosphere.</li></ul>
+    </p>
+    <br>
+    <br>
+    <h2>EFFECTS OF DESKTOP ON THE ENVIRONMENT</h2>
+    <p>
+      <br>
+  A lot toxic chemicals are incorperated into the electronic produces that we have today. Chemicals that causes chronic ailments such as cancer, brain and kidney failure abd even reproductive issues. The improper disposal of e-waste, releases these harmfulchemicals into the environments.  </p>
+      <br>
+    <p>
+      Lead is released into the enivronment as a result of the improper disposal of e-waste. Lead causes anemia, brain and kidney failure in low dosage while higher exposure to lead can leadto death. Other chemicals such as mercury and barium are also released with the improper diposal of e-waste. 
+    </p>
+    <br>
+    <p>
+      Mercury also causes brain damage resulting in neurological and behavioural disorders. Some of the neurological sypmtoms to be expec 
+    </p>
+    </p>
+    <br>
+    <br>
+   <h1>SOLUTIONS TO MITIGATE DESKTOPS E-WASTE ON THE ENVIRONMENT</h1>
+    <p>
+      E-waste and its effects have severe consequences on our lives as humans, but you can help reduce these effects by:
+      <br>
+      <ul>
+      <li>✅Buying less unnecessary  appliances. This reduces the amount of e-waste that will be diposed while reducing the carbon dioxide emission produced by the household.</li>
+      <br>
+      <li> ✅Educating yourself of what goes into making your electronic products and their eco-friendly alternatives. By doing so, you are aware of the pontential harm your product(s) may have have on the environment. </li>
+      <br>
+      <li>✅By ensuring that your e-waste is proprely disposed of by ensuring that it is sent to a trustworthy organization such as e-Steward, ZWV and others. </li>
+      <br>
+      <li>✅By informing others about the dangers of e-waste and the steps they can take to help reduce its effects. </li>
+    </p>
+      </ul>
+    <br>
+    <br>
+    
+<center><strong><i>-Save the environment and encourage sustainability and restoration!-</i></strong></center>
+  </ul>
+  </body>
+    <!-------------------------------- FOOTER SECTION-------------------------------->
+<footer>
+  <div class="footer">
+    <div class="footer-content">
+      <div>
+        <b> About Us</b>
+          <ul>
+            <p> We are a group of first year computing students of the University of the West Indies, <br></br>who chose the topic Environment and computing for our web development project </p>
+            <a href="about us.html"><button class="button2">More</button></a>
+          </ul>
+      </div>
+    </div>
+    <!-------------------------------- FOOTER-------------------------------->
+    <div>
+      <div class="footer-bottom">
+        <center>&copy; E&V @2022 | Designed by Computing students</center>
+      </div>
+    </div>
+</footer>
+
+</html>
