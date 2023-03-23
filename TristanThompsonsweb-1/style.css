@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:serif;
+    line-height: 30px;
+}
+p{
+  color: #fff
+}
+h1{
+  color: #fff
+}
+.lsts{
+  max-width: 1000px;
+  min-width: 100px;
+}
+nav{
+    position:fixed;
+    top:0;
+    left:1;
+    margin: 0;  
+    width:100%;
+    height:80px;
+    padding:5px 90px;
+    box-sizing:border-box;
+    background-color:#080f26;
+    z-index:999;
+}
+nav .logo{
+    padding:22px 20px;
+    height:750px;
+    float: left;
+    font-size:24px;
+    font-weight:bold;
+    color: #fff;
+}
+nav ul {
+    list-style:none;
+    position: relative;
+    float: left;
+    margin: 0;
+    margin-left: 50px;
+    padding: 1px;
+    display:flex;
+}
+nav ul li a{
+    line-height:80px;
+    color:#fff;
+    padding:12px 30px;
+    text-decoration:none;
+    font-size:15px;
+    font-weight:bold;
+}
+nav ul li a:hover{
+    background:rgba(0,0,0,0.7);
+    border-radius:6px;
+}
+nav ul li a.active{
+    background:#012169;
+    border-radius:6px;
+}
+nav ul li ul {
+    position: absolute;
+    left: 0:;
+    background: rgba(0,0,0,0.5);
+    display: none;
+    border-radius: 6px;
+}
+nav ul li:hover ul {
+    display: block;
+    background: #303030;
+}
+nav ul li ul li {
+    display:block;
+    width: 200px;
+    position: left;
+}
+html {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 35.1%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+.myProImg{
+  transition: 0.71s;
+  margin-left: 6.5vh;
+  /*box-sizing: border-box;*/
+}
+.myProImg:hover{
+  transform: rotate(20deg);
+  
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: blue;
+}
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #080f26;
+}
+
+
+
+/* Footer */
+.footer {
+  background: #080f26;
+  height: 300px;
+  color: #d3d3d3;
+  position: relative
+}
+.button2 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color:#081f26;
+  text-align: center;
+  cursor: pointer;
+}
+
+.Trispic {
+  float: left;
+  border: 1px dotted black;
+  margin: 1px 10px 10px 10px;
+}
+
